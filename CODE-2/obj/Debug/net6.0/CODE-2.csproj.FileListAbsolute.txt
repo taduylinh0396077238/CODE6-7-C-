@@ -1,0 +1,15 @@
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\bin\Debug\net6.0\CODE-2.exe
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\bin\Debug\net6.0\CODE-2.deps.json
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\bin\Debug\net6.0\CODE-2.runtimeconfig.json
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\bin\Debug\net6.0\CODE-2.dll
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\bin\Debug\net6.0\CODE-2.pdb
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.csproj.AssemblyReference.cache
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.AssemblyInfoInputs.cache
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.AssemblyInfo.cs
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.dll
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\refint\CODE-2.dll
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.pdb
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\CODE-2.genruntimeconfig.cache
+C:\Users\TGDD\source\repos\Github\C_Sharp\CODE-2\obj\Debug\net6.0\ref\CODE-2.dll
